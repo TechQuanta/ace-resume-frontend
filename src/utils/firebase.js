@@ -1,0 +1,1 @@
+//write you own firebase configuration here
